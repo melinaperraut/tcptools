@@ -29,21 +29,19 @@ INFO 314 TCP/IP Tools assignment repository
 <h1> Using "tracert" </h1>
 
 - What was the target server's IP address?
-  - <b>Amazon:</b> 
-  - <b>Google:</b> 
-  - <b>Microsoft:</b> 
+  - <b>Amazon:</b> 18.65.233.187
+  - <b>Google:</b> 142.251.33.100
+  - <b>Microsoft:</b> 23.212.181.121
 - How many hops were needed to reach the target?
-  - <b>Amazon:</b> 
-  - <b>Google:</b> 
-  - <b>Microsoft:</b> 
+  - <b>Amazon:</b> 17
+  - <b>Google:</b> 10
+  - <b>Microsoft:</b> 8
 - Can you identify your ISP from the intermediate server DNS names?
-  - <b>Amazon:</b> 
-  - <b>Google:</b> 
-  - <b>Microsoft:</b> 
+  - Yes (it is Comcast).
 - Identify the "class" of IP address for each major step in the trip
-  - <b>Amazon:</b> 
-  - <b>Google:</b> 
-  - <b>Microsoft:</b> 
+  - <b>Amazon:</b> Class transitions from C (hop 1) to A (hop 2) to B (hop 16) to A (hop 17). Final IP address class is A.
+  - <b>Google:</b> Class transitions from C (hop 1) to A (hop 2) to B (hop 8). Final IP address class is B.
+  - <b>Microsoft:</b> Class transitions from C (hop 1) to A (hop 2). Final IP address class is A.
 
 <h1> Extra credit: Using "ngrok" </h1>
 
