@@ -5,17 +5,17 @@ INFO 314 TCP/IP Tools assignment repository
 
 - What were the min/avg/max/stddev statistics for each?
   - <b>Amazon:</b>
-    - Overall stats: Min 10 ms, Avg 10.3 ms, Max 13 ms, Std dev 0.47 ms
+    - Overall stats: Min 10 ms, Avg 10.3 ms, Max 13 ms (Std dev was not included in output)
     - Ping 1: Min 10 ms, Max 13 ms, Avg 10 ms
     - Ping 2: Min 10 ms, Max 13 ms, Avg 11 ms
     - Ping 3: Min 10 ms, Max 11 ms, Avg 10 ms
   - <b>Google:</b> 
-    - Overall stats: Min 10 ms, Avg 12.3 ms, Max 23 ms, Std dev 1.25 ms
+    - Overall stats: Min 10 ms, Avg 12.3 ms, Max 23 ms (Std dev was not included in output)
     - Ping 1: Min 10 ms, Max 19 ms, Avg 12 ms
     - Ping 2: Min 10 ms, Max 12 ms, Avg 11 ms
     - Ping 3: Min 10 ms, Max 23 ms, Avg 14 ms
   - <b>Microsoft:</b> 
-    - Overall stats: Min 9 ms, Avg 10 ms, Max 14 ms, Std dev 0 ms
+    - Overall stats: Min 9 ms, Avg 10 ms, Max 14 ms (Std dev was not included in output)
     - Ping 1: Min 10 ms, Max 10 ms, Avg 10 ms
     - Ping 2: Min 9 ms, Max 14 ms, Avg 10 ms
     - Ping 3: Min 9 ms, Max 12 ms, Avg 10 ms
