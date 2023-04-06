@@ -1,42 +1,45 @@
-C:\Users\melin>ping www.amazon.com
+C:\Users\melin>ping /n 5 www.amazon.com
 
-Pinging d3ag4hukkh62yn.cloudfront.net [108.138.91.214] with 32 bytes of data:
-Reply from 108.138.91.214: bytes=32 time=10ms TTL=245
-Reply from 108.138.91.214: bytes=32 time=10ms TTL=245
-Reply from 108.138.91.214: bytes=32 time=10ms TTL=245
-Reply from 108.138.91.214: bytes=32 time=13ms TTL=245
+Pinging d3ag4hukkh62yn.cloudfront.net [18.172.169.208] with 32 bytes of data:
+Reply from 18.172.169.208: bytes=32 time=10ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=11ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=14ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=10ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=9ms TTL=245
 
-Ping statistics for 108.138.91.214:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 18.172.169.208:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 13ms, Average = 10ms
+    Minimum = 9ms, Maximum = 14ms, Average = 10ms
 
-C:\Users\melin>ping www.amazon.com
+C:\Users\melin>ping /n 5 www.amazon.com
 
-Pinging d3ag4hukkh62yn.cloudfront.net [18.65.233.187] with 32 bytes of data:
-Reply from 18.65.233.187: bytes=32 time=10ms TTL=245
-Reply from 18.65.233.187: bytes=32 time=11ms TTL=245
-Reply from 18.65.233.187: bytes=32 time=11ms TTL=245
-Reply from 18.65.233.187: bytes=32 time=13ms TTL=245
+Pinging d3ag4hukkh62yn.cloudfront.net [18.172.169.208] with 32 bytes of data:
+Reply from 18.172.169.208: bytes=32 time=11ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=17ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=12ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=10ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=9ms TTL=245
 
-Ping statistics for 18.65.233.187:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 18.172.169.208:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 17ms, Average = 11ms
+
+C:\Users\melin>ping /n 5 www.amazon.com
+
+Pinging d3ag4hukkh62yn.cloudfront.net [18.172.169.208] with 32 bytes of data:
+Reply from 18.172.169.208: bytes=32 time=11ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=10ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=13ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=10ms TTL=245
+Reply from 18.172.169.208: bytes=32 time=11ms TTL=245
+
+Ping statistics for 18.172.169.208:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 10ms, Maximum = 13ms, Average = 11ms
-
-C:\Users\melin>ping www.amazon.com
-
-Pinging d3ag4hukkh62yn.cloudfront.net [18.65.233.187] with 32 bytes of data:
-Reply from 18.65.233.187: bytes=32 time=11ms TTL=245
-Reply from 18.65.233.187: bytes=32 time=11ms TTL=245
-Reply from 18.65.233.187: bytes=32 time=11ms TTL=245
-Reply from 18.65.233.187: bytes=32 time=10ms TTL=245
-
-Ping statistics for 18.65.233.187:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 11ms, Average = 10ms
-
+    
 C:\Users\melin>ping www.google.com
 
 Pinging www.google.com [142.250.69.196] with 32 bytes of data:
