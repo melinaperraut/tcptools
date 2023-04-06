@@ -40,44 +40,47 @@ Ping statistics for 18.172.169.208:
 Approximate round trip times in milli-seconds:
     Minimum = 10ms, Maximum = 13ms, Average = 11ms
     
-C:\Users\melin>ping www.google.com
+C:\Users\melin>ping /n 5 www.google.com
 
-Pinging www.google.com [142.250.69.196] with 32 bytes of data:
-Reply from 142.250.69.196: bytes=32 time=10ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=11ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=19ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=10ms TTL=57
+Pinging www.google.com [142.251.33.100] with 32 bytes of data:
+Reply from 142.251.33.100: bytes=32 time=10ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=10ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=11ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=18ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=11ms TTL=57
 
-Ping statistics for 142.250.69.196:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 142.251.33.100:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 19ms, Average = 12ms
+    Minimum = 10ms, Maximum = 18ms, Average = 12ms
 
-C:\Users\melin>ping www.google.com
+C:\Users\melin>ping /n 5 www.google.com
 
-Pinging www.google.com [142.250.69.196] with 32 bytes of data:
-Reply from 142.250.69.196: bytes=32 time=11ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=10ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=11ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=12ms TTL=57
+Pinging www.google.com [142.251.33.100] with 32 bytes of data:
+Reply from 142.251.33.100: bytes=32 time=12ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=10ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=11ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=11ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=11ms TTL=57
 
-Ping statistics for 142.250.69.196:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 142.251.33.100:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 10ms, Maximum = 12ms, Average = 11ms
 
-C:\Users\melin>ping www.google.com
+C:\Users\melin>ping /n 5 www.google.com
 
-Pinging www.google.com [142.250.69.196] with 32 bytes of data:
-Reply from 142.250.69.196: bytes=32 time=23ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=10ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=11ms TTL=57
-Reply from 142.250.69.196: bytes=32 time=15ms TTL=57
+Pinging www.google.com [142.251.33.100] with 32 bytes of data:
+Reply from 142.251.33.100: bytes=32 time=12ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=11ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=15ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=10ms TTL=57
+Reply from 142.251.33.100: bytes=32 time=12ms TTL=57
 
-Ping statistics for 142.250.69.196:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 142.251.33.100:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 23ms, Average = 14ms
+    Minimum = 10ms, Maximum = 15ms, Average = 12ms
 
 C:\Users\melin>ping www.microsoft.com
 
